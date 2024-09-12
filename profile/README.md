@@ -1,4 +1,4 @@
-![](logo-white-bgn.png)
+![](logo-white-bgn.PNG)
 
 <!--
 
